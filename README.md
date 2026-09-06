@@ -1,2 +1,2 @@
 # Indicadores con Encuestas Nacionales
-ENAHO, ENDES, ENAPREF, EEA
+ENAHO, ENDES, ENAPREF, EEA, CENEC
